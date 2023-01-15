@@ -1,0 +1,13 @@
+.text-center {
+    text-align: center;
+}
+.mx-auto {
+    margin: auto;
+    max-width: 30vw;
+
+}
+ 
+.footer {
+       text-align: right;
+       padding-right: 80px;
+}
